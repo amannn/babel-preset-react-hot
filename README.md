@@ -1,4 +1,4 @@
-# Babel preset for React HMR and Error Catching
+# Babel preset for React hot module replacement and error catching
 
 This preset will configure Babel for `react-transform-hmr` and `react-transform-catch-errors`.
 
