@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-react-hot",
+  "version": "1.0.0",
+  "description": "Babel preset for React hot module replacement and error catching",
+  "main": "index.js",
+  "repository": "https://github.com/amannn/babel-preset-react-hot",
+  "author": "Jan Amann <jan@amann.me>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-react-transform": "^2.0.2",
+    "deepmerge": "1.5.0",
+    "react-transform-catch-errors": "^1.0.2",
+    "react-transform-hmr": "^1.0.4",
+    "redbox-react": "^1.4.3"
+  },
+  "peerDependencies": {
+    "react": "^15.5.0"
+  },
+  "engine": "node >=7.0.0"
+}
