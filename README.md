@@ -7,11 +7,11 @@ This preset should only be used for development builds.
 ## Install
 
 ```sh
-yarn add babel-preset-react-hmre --dev
+yarn add babel-preset-react-hot --dev
 
 # or
 
-npm install babel-preset-react-hmre --save-dev
+npm install babel-preset-react-hot --save-dev
 ```
 
 Configure babel via .babelrc
