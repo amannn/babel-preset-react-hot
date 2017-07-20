@@ -21,7 +21,7 @@ Configure babel via .babelrc
 {
   "env": {
     "development": {
-      "presets": ["react-hmre"]
+      "presets": ["react-hot"]
     }
   }
 }
