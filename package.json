@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-hot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Babel preset for React hot module replacement and error catching",
   "main": "index.js",
   "repository": "https://github.com/amannn/babel-preset-react-hot",
