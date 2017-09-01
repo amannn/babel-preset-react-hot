@@ -17,6 +17,9 @@ const style = deepmerge(defaultStyle, {
   }
 });
 
-const ErrorBox = props => React.createElement(Redbox, deepmerge({style}, props));
+const ErrorBox = function(props) {
+  return React.createElement(Redbox, deepmerge({style: style}, props))
+};
+
 ErrorBox.displayName = 'ErrorBox';
 module.exports = ErrorBox;
