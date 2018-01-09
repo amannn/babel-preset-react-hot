@@ -14,7 +14,7 @@
     "redbox-react": "^1.4.3"
   },
   "peerDependencies": {
-    "react": "^15.5.0"
+    "react": "^16.0.0"
   },
   "engine": "node >=7.0.0"
 }
